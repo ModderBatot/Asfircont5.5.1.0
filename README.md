@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "net.darktunnel.app",
-      "status": false,
+      "status": true,
       "installed_error_message": "Pirated software found. Remove to continue."
     }
   ],
@@ -10,7 +10,7 @@
 
     {
       "package": "com.animohub.pro",
-      "status": false,
+      "status": true,
       "not_installed_error_message": "Required service not installed."
     }
   ]
